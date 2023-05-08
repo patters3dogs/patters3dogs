@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Web application development 
+- 🌱 I’m currently learning [Nonlinear Dynamics: Mathematical and Computational Approaches](https://www.complexityexplorer.org/courses/167-nonlinear-dynamics-mathematical-and-computational-approaches)
+
+
+[![patters3dogs's GitHub stats](https://github-readme-stats.vercel.app/api?username=patters3dogs)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **patters3dogs/patters3dogs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
