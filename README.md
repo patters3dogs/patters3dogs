@@ -9,8 +9,9 @@
 - I'm Thai and a fan of Chiang Mai, Thailand. 
 ---
 - 🌱 I’m currently learning ...
-  -  [Network Dynamics of Social Behavior](https://www.coursera.org/learn/networkdynamics)
+  -  [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis)
   -  [Introduction to Agent-Based Modeling](https://www.complexityexplorer.org/courses/171-introduction-to-agent-based-modeling)
+  -  [MLOps | Machine Learning Operations Specialization](https://www.coursera.org/specializations/mlops-machine-learning-duke)
   -  [C# Programming for Unity Game Development Specialization](https://www.coursera.org/specializations/programming-unity-game-development)
 - finished learning in 2023 ...
   - [finished][Nonlinear Dynamics: Mathematical and Computational Approaches](https://www.complexityexplorer.org/courses/167-nonlinear-dynamics-mathematical-and-computational-approaches)
