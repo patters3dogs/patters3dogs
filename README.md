@@ -15,6 +15,10 @@
   -  [C# Programming for Unity Game Development Specialization](https://www.coursera.org/specializations/programming-unity-game-development)
 - finished learning in 2023 ...
   - [finished][Nonlinear Dynamics: Mathematical and Computational Approaches](https://www.complexityexplorer.org/courses/167-nonlinear-dynamics-mathematical-and-computational-approaches)
+  - [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
+    - [finished][Introduction to Front-End Development](https://coursera.org/share/48852a05d1069c8f7eadf83f8de21573)
+  - [MLOps | Machine Learning Operations Specialization](https://www.coursera.org/specializations/mlops-machine-learning-duke)
+    - [finished][Python Essentials for MLOps](https://coursera.org/share/72cc2380360983effec03644589ecf93)
 ---
 ## 📫 _How to reach me_
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/patters3dogs)
