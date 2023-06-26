@@ -19,6 +19,8 @@
     - [finished][Introduction to Front-End Development](https://coursera.org/share/48852a05d1069c8f7eadf83f8de21573)
   - [MLOps | Machine Learning Operations Specialization](https://www.coursera.org/specializations/mlops-machine-learning-duke)
     - [finished][Python Essentials for MLOps](https://coursera.org/share/72cc2380360983effec03644589ecf93)
+  - [C# Programming for Unity Game Development Specialization](https://www.coursera.org/specializations/programming-unity-game-development)
+    - [finished][Introduction to C# Programming and Unity](https://coursera.org/share/08627339955a563725f04360172c660a)
 ---
 ## 📫 _How to reach me_
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/patters3dogs)
