@@ -2,7 +2,7 @@
 - My name is Pattana Somroob.
 - I am a scientist, physicist and web application developer.
 - Trying to automate things is my favorite hobby.
-- In my free-time, I am working as automate trading as retail quant researcher.
+- In my free-time, I work on retail quant researcher.
 - A complex system science nerd.
 - A history enthusiast.
 - A Ph.D. in physics. 🎓 
