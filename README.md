@@ -22,6 +22,7 @@
     - [finished][DevOps, DataOps, MLOps](https://coursera.org/share/46e2a25a8dda6e34768ac56be228ec45)
   - [C# Programming for Unity Game Development Specialization](https://www.coursera.org/specializations/programming-unity-game-development)
     - [finished][Introduction to C# Programming and Unity](https://coursera.org/share/08627339955a563725f04360172c660a)
+  - [finished][Machine Learning for Trading](https://coursera.org/share/326311a1fb4241e23d1178521808538d)
 ---
 ## 📫 _How to reach me_
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/patters3dogs)
