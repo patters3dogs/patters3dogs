@@ -8,21 +8,22 @@
 - A Ph.D. in physics. 🎓 
 - I'm Thai and a fan of Chiang Mai, Thailand. 
 ---
-- 🌱 I’m currently learning ...
+- ### 🌱 I’m currently learning ...
   -  [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis)
   -  [Introduction to Agent-Based Modeling](https://www.complexityexplorer.org/courses/171-introduction-to-agent-based-modeling)
-  -  [MLOps | Machine Learning Operations Specialization](https://www.coursera.org/specializations/mlops-machine-learning-duke)
   -  [C# Programming for Unity Game Development Specialization](https://www.coursera.org/specializations/programming-unity-game-development)
-- finished learning in 2023 ...
+  -  [Practical Data Science on the AWS Cloud Specialization](https://www.coursera.org/specializations/practical-data-science)
+- ### finished learning in 2023 ...
   - [finished][Nonlinear Dynamics: Mathematical and Computational Approaches](https://www.complexityexplorer.org/courses/167-nonlinear-dynamics-mathematical-and-computational-approaches)
   - [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
     - [finished][Introduction to Front-End Development](https://coursera.org/share/48852a05d1069c8f7eadf83f8de21573)
-  - [MLOps | Machine Learning Operations Specialization](https://www.coursera.org/specializations/mlops-machine-learning-duke)
-    - [finished][Python Essentials for MLOps](https://coursera.org/share/72cc2380360983effec03644589ecf93)
-    - [finished][DevOps, DataOps, MLOps](https://coursera.org/share/46e2a25a8dda6e34768ac56be228ec45)
+  - [finished][MLOps | Machine Learning Operations Specialization](https://coursera.org/share/1febf59a48e28cd9f8a5e80e2ec07509)
   - [C# Programming for Unity Game Development Specialization](https://www.coursera.org/specializations/programming-unity-game-development)
     - [finished][Introduction to C# Programming and Unity](https://coursera.org/share/08627339955a563725f04360172c660a)
   - [finished][Machine Learning for Trading](https://coursera.org/share/326311a1fb4241e23d1178521808538d)
+  - [finished][DevOps on AWS](https://coursera.org/share/290d8cb9816f16b7dad11d5ac896fe36)
+  - [finished][Exam Prep: AWS Certified Cloud Practitioner Foundations](https://coursera.org/share/0f781a228bb566910db46fd34efad0b4)
+  - [finished][Julia Scientific Programming](https://coursera.org/share/a0487bf2d9222f10b37865bf8f4ff89b)
 ---
 ## 📫 _How to reach me_
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/patters3dogs)
