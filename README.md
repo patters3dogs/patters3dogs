@@ -14,6 +14,7 @@
   -  [C# Programming for Unity Game Development Specialization](https://www.coursera.org/specializations/programming-unity-game-development)
   -  [Practical Data Science on the AWS Cloud Specialization](https://www.coursera.org/specializations/practical-data-science)
 - ### finished learning in 2023 ...
+  - [finished][Introduction to MongoDB](https://coursera.org/share/06fe8f67e3a9dac34072115c085e5473)
   - [finished][Nonlinear Dynamics: Mathematical and Computational Approaches](https://www.complexityexplorer.org/courses/167-nonlinear-dynamics-mathematical-and-computational-approaches)
   - [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
     - [finished][Introduction to Front-End Development](https://coursera.org/share/48852a05d1069c8f7eadf83f8de21573)
